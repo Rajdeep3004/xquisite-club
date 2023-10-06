@@ -53,6 +53,7 @@ const LoginPage = (props) => {
         </div>
       </form>
       <p className="text-[10px] mt-4">*dummy- test@email.com,12345678</p>
+      <p className="text-[10px] mt-4">*login/sign up may get slow due to free hosting plan</p>
     </div>
   );
 };
