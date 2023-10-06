@@ -38,9 +38,9 @@ const Navbar = () => {
 
       <button className="visible md:hidden z-30 mx-4" onClick={changeHandler}>
         {open ? <CloseSVg /> : <HamburgerSVG />}
-        {!open && (
+        {!open && isLoggedIn && (
           <span className="text-xs absolute bottom-8 right-2 align-super bgLight text-white rounded-full p-1">
-            {isLoggedIn ? cartItems : null}
+            {cartItems}
           </span>
         )}
       </button>
