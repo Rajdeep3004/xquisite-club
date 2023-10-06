@@ -1,0 +1,23 @@
+[
+  {
+    "id": "mu1",
+    "alt": "Red Satin Jacket",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/upperWear%2Fmen%2FmenJacketRed.jpeg?alt=media&token=66399ac4-1947-485e-b9fa-fcee17605de8",
+    "name": "Red Satin Jacket",
+    "price": 699
+  },
+  {
+    "id": "mu2",
+    "alt": "Teal Gabardine Hoodie",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/upperWear%2Fmen%2FmenHoodieTeal.jpeg?alt=media&token=de389a2c-f933-4f42-89fd-1ebf0ae13986",
+    "name": "Teal Gabardine Hoodie",
+    "price": 999
+  },
+  {
+    "id": "mu3",
+    "alt": "Grey Satin Jacket",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/upperWear%2Fmen%2FmenJacketGrey.jpeg?alt=media&token=ace2048d-092b-4057-889e-da15e53270c8",
+    "name": "Grey Satin Jacket",
+    "price": 1299
+  }
+]

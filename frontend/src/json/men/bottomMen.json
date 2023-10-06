@@ -1,0 +1,16 @@
+[
+  {
+    "id": "mb1",
+    "alt": "Denim Black",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/bottomWear%2Fmen%2FmenJeansBlack.jpeg?alt=media&token=71e6511c-64c3-4803-a749-daa522d8b2de",
+    "name": "100% Denim Black Jeans",
+    "price": 799
+  },
+  {
+    "id": "mb2",
+    "alt": "Denim White",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/bottomWear%2Fmen%2FmenJeansWhite.jpeg?alt=media&token=8f8bc716-bae1-4df2-aef6-9ce5a5806d62",
+    "name": "100% Denim white Jeans",
+    "price": 899
+  }
+]

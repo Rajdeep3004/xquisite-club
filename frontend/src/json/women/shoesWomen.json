@@ -1,0 +1,16 @@
+[
+  {
+    "id": "ws1",
+    "alt": "Brown/White Mule Boots",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/shoesWear%2Fwomen%2FwomenShoesBrown.jpeg?alt=media&token=5eee8c52-cea9-45ff-87d6-474ad5b6e774",
+    "name": "Brown/White Mule Boots",
+    "price": 699
+  },
+  {
+    "id": "ws2",
+    "alt": "Blue/Brown Loafer Boots",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/shoesWear%2Fwomen%2FwomenShoesBlue.jpeg?alt=media&token=94f9e880-b083-4392-9115-265517708432",
+    "name": "Blue/Brown Loafer Boots",
+    "price": 799
+  }
+]

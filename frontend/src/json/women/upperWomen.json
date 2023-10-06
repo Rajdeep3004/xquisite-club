@@ -1,0 +1,17 @@
+[
+    {
+      "id": "wu1",
+      "alt": "Orange Satin Jacket",
+      "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/upperWear%2Fwomen%2FwomenJacketOrange.jpeg?alt=media&token=2c5d4fb5-85af-4562-82d6-dccee64481b3",
+      "name": "Orange Satin Jacket",
+      "price": 799
+    },
+    {
+      "id": "wu2",
+      "alt": "Multi-Colored Satin Jacket",
+      "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/upperWear%2Fwomen%2FwomenJacketMulti.jpeg?alt=media&token=04ea7861-6365-404e-bb06-adbcbc56f282",
+      "name": "Multi-Colored Satin Jacket",
+      "price": 999
+    }
+  ]
+  

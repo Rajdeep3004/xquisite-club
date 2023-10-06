@@ -1,0 +1,99 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.textDark {
+  @apply text-[#595D59];
+}
+
+.textLight {
+  @apply text-[#3f6690];
+}
+
+.bgDark {
+  @apply bg-[#595D59];
+}
+
+.bgLight {
+  @apply bg-[#3f6690];
+}
+
+body {
+  @apply bg-white textDark font-Poppins;
+}
+
+.nav-ul {
+  @apply bg-white text-sm md:text-lg lg:text-2xl ;
+}
+
+.nav-li-active {
+  @apply textLight px-4 py-4 lg:py-0 hover:scale-110;
+}
+
+.nav-li-inactive {
+  @apply textDark px-4 py-4 lg:py-0 hover:scale-110;
+}
+
+.login-div {
+  @apply bg-[#3f6690] text-white text-center px-6 py-6 md:py-8 lg:py-10
+           mx-8 md:mx-28 lg:mx-[30%] my-[20%] lg:my-[5%];
+}
+
+.login-label {
+  @apply text-sm md:text-2xl mx-[25%];
+}
+
+.login-input {
+  @apply text-black rounded-lg w-[80%] md:h-10 mt-4 mb-6 md:mb-10;
+}
+
+.login-btn {
+  @apply text-sm md:text-2xl bg-white text-[#595D59] px-10 py-3 mb-2 md:mb-4 hover:scale-110 duration-300;
+}
+
+.item-nav-div {
+  @apply flex justify-center gap-x-4 lg:gap-x-14 mb-6;
+}
+
+.render-form-div {
+  @apply grid md:grid-cols-2 lg:grid-cols-3 justify-items-center md:mx-4 lg:mx-16 lg:my-8 gap-y-4 md:gap-10 lg:gap-20;
+}
+
+.card-div {
+  @apply max-w-sm text-left bg-slate-300 p-2 m-4 shadow-xl shadow-[#3f6690] hover:scale-105 duration-300 fade-in ;
+}
+
+.card-btn {
+  @apply bgLight text-white px-6 py-3 hover:scale-110 duration-300 disabled:bg-slate-400;
+}
+
+.order-div {
+  @apply bgLight text-white text-xs md:text-base mx-6 md:mx-20 lg:mx-28;
+}
+
+.order-img {
+  @apply w-8 h-8 md:w-14 md:h-14 lg:w-16 lg:h-16 rounded-[34px] inline-block;
+}
+
+.order-btn {
+  @apply hover:bg-white hover:text-[#3f6690] hover:rounded-lg;
+}
+
+.checkoutForm-input {
+  @apply text-[#595D59] rounded-lg ml-4 w-[40%] md:w-[35%] lg:w-[30%] md:h-7 mt-2 mb-2 mx-4;
+}
+
+.fade-in {
+  animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

@@ -1,0 +1,16 @@
+[
+  {
+    "id": "wb1",
+    "alt": "Black Lowrise Jeans",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/bottomWear%2Fwomen%2FwomenJeansBlack.jpeg?alt=media&token=c979b105-2a05-4965-b7e6-06a08e6d6325",
+    "name": "Black Lowrise Jeans",
+    "price": 599
+  },
+  {
+    "id": "wb2",
+    "alt": "Blue Flare Jeans",
+    "url": "https://firebasestorage.googleapis.com/v0/b/xquisiteclub-b89da.appspot.com/o/bottomWear%2Fwomen%2FwomenJeansBlue.jpeg?alt=media&token=89e87136-c294-4407-868e-50ef02d96d29",
+    "name": "Blue Flare Jeans",
+    "price": 699
+  }
+]
