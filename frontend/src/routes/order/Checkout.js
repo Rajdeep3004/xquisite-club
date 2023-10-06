@@ -61,7 +61,6 @@ const Checkout = () => {
           }, 2000);
         })
         .catch((error) => alert(`Sending order --- ${error}`));
-      console.log(input);
     } else {
       setMsg({ ...msg, msg: "Invalid field(s).", showMsg: true });
     }

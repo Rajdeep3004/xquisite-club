@@ -40,7 +40,7 @@ const Navbar = () => {
         {open ? <CloseSVg /> : <HamburgerSVG />}
         {!open && (
           <span className="text-xs absolute bottom-8 right-2 align-super bgLight text-white rounded-full p-1">
-            {cartItems}
+            {isLoggedIn ? cartItems : null}
           </span>
         )}
       </button>
